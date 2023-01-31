@@ -1,0 +1,28 @@
+ <!DOCTYPE HTML>
+<html>
+<body>
+<h3>Name: Melzy Wise
+<h3>Class Project: Accessibility Testing
+<h3>Website:  <a href="https://www.hampshire.edu/library"> Hampshire College Library</a
+<br>
+<h3>Date: 1/30/2023
+    <br>
+<h2>Website Page Title
+    <h4> There is a < title > within the < head > tag.
+<h2>Image Text Alternatives
+    <h4> There is alt text for all the images on the library page.
+<h2>Text
+    <h4>There is very low contast between text and background colors on a lot of the text. This occurred in 27 places.
+ <br>When scaled up to 200% the text was still readable, both on the computer and on my samsung smartphone. I was able to scale it up using keyboard commands. 
+<br> There was an empty link with no text.
+<h2>Interaction
+    <h4>Using only keyboard keys to navigate the website was effective. All pages could be opened, however it wasn't always possible to go back to the landing page.
+<h2>General
+    <h4>There were no image carousels, flashing or blinking content. When I removed the CSS styling the website became much harder to navigate.
+    There are two mains. According to W3 Schools, there must not be more than one < main > element in a document. 
+
+<h2>Final Thoughts
+    <h4>The 14 errors on this page were all due to a broken ARIA menu.
+</body>
+</html>
+
