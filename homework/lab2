@@ -34,5 +34,44 @@ new Chart("myChart", {
 });
 </script>
 
+<html>
+<body>
+<table border="2">
+ <tr> 
+    <th></th>
+    <th>Spring 2022</th>
+    <th>Summer 2022</th>
+    <th>Fall 2022</th>
+    <th>Winter 2022-3</th>
+  </tr>
+  <tr>
+    <th>Course #1</th>
+    <td>Foundations</td>
+    <td>Organization of Info.</td>
+    <td>Digitization</td>
+     <td>Web Content Management</td>
+  </tr>
+  <tr> 
+    <th>Course #2</th>
+    <td>User & Access Services</td>
+    <td>Management of Info. Organizations</td>
+    <td>Advocacy & Marketing</td>
+     <td>Organization of Information</td>
+ </tr>
+ <tr> 
+    <th>Course #3</th>
+    <td>Intro to Archives</td>
+    <td>Public Libraries</td>
+    <td>Privilege & Equity</td>
+     <td>(none)</td>
+ </tr>
+<h1>
+MLIS courses taken so far
+</table>
+
+
+
+
+</html>
 </body>
 </html>
